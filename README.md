@@ -267,9 +267,8 @@ Estructura del informe:
 | Página | Contenido | Estado |
 |---|---|---|
 | 1. Panorama | KPI de producción, superficie, rendimiento y precio; producción por cultivo y por provincia; rendimiento por cultivo | Terminada |
-| 2. Análisis productivo | Mapa de superficie sembrada por provincia según campaña, gráfico de participación por cultivo, rendimiento por campaña | E
+| 2. Análisis productivo | Mapa de superficie sembrada por provincia según campaña, gráfico de participación por cultivo, rendimiento por campaña |
 | 3. Evolución de precios | Precio anual por cultivo, precio por mercado, gráfico de líneas con selección de cultivo | En revisión |
-| 4. Rentabilidad y costos | Ingreso, costo y margen por hectárea | Pendiente |
 
 Componentes principales:
 
