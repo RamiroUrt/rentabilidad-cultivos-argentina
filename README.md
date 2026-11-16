@@ -1,7 +1,7 @@
 
 # Rentabilidad cultivos Argentina
 
-![Portada - Análisis de rentabilidad agrícola en Argentina](capturas/banner.png)
+![Portada](capturas/banner.png)
 
 ## Diplomatura en Ciencia de Datos orientada al Agro
 
@@ -166,7 +166,7 @@ Decisiones de modelado:
 - `DimCultivosPrecios` es la única tabla de cultivos usada en segmentadores y leyendas de precios. Así, la selección de un cultivo filtra tanto la producción como los precios.
 - La tabla de centroides no tiene relación propia. Sus coordenadas se incorporaron a `DimGeografia`, porque una relación adicional generaba una ruta ambigua hacia las estimaciones.
 
-![Portada - Análisis de rentabilidad agrícola en Argentina](capturas/Relaciones.png)
+![Portada](capturas/Relaciones.png)
 
 ### 3.7. Mapa de provincias
 
